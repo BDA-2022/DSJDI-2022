@@ -1,5 +1,5 @@
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
-title: Workshop on Data Science for Justice Delivery in India ( DSJDI'22 ) 
+title: Workshop on Data Science for Justice Delivery in India (DSJDI'22) 
 description: (in conjunction with Tenth International Conference on Big  Data Analytics 2022 (BDA 2022), 19 - 22, December 2022, http://wwwbda2022.org)
