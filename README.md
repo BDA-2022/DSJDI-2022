@@ -1,4 +1,4 @@
-<!-- # Workshop on Data Science for  Justice Delivery in India  (DSJDI-2022) -->
+<!-- # Workshop on Data Science for Justice Delivery in India (DSJDI-2022) -->
 ## About the workshop
 The judicial system in India is under tremendous pressure. As of May 2022, over 4.7 crore cases are pending in courts across different levels of the judiciary. Advances in digital technology  have made it possible to store and retrieve huge repository of legal documents.    Apart from the size of data, the inherent complexity of legal domain demand better and more sophisticated methods to process legal documents to satisfy the information need of legal practitioners thereby improving the efficiency of all components of justice delivery system. This workshop focuses on  challenges to build data science based legal decision support systems  to improve the efficiency of legal practitioners, judges and the other stakeholders involved in the justice delivery. 
 
