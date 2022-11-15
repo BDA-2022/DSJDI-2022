@@ -7,6 +7,7 @@ There is a scope to exploit the latest data science technologies such as artific
 
 ## Program
 **Workshop date** : December 19, 2022
+
 The workshop is structured around ongoing research efforts in investigating data science approaches to build decision support systems for legal domain.  This workshop is a collection of  keynote talks, invited presentations and a panel.
 
 ## Organisation
