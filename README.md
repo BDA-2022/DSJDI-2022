@@ -53,9 +53,12 @@ NALSAR University of Law
     - V. Balakista Reddy, NALSAR University of Law, Telangana State, India 
     
     
- [^note]:
-   
-![IIITH](https://user-images.githubusercontent.com/47175790/202653553-64be9986-63a2-48a4-abb2-231be0c3d5ac.png) ![Nalsar_University_of_Law](https://user-images.githubusercontent.com/47175790/202653522-771f07f1-e059-4b39-aa2b-ec270ab4a4af.png) ![ihub](https://user-images.githubusercontent.com/47175790/202653589-133400e6-39a0-4f6e-93a6-79e38d2aa7b6.png)
+[^note]:
+<img src="[https://github.com/favicon.ico](https://user-images.githubusercontent.com/47175790/202653553-64be9986-63a2-48a4-abb2-231be0c3d5ac.png)" width="48">
+<!-- 
+![IIITH](https://user-images.githubusercontent.com/47175790/202653553-64be9986-63a2-48a4-abb2-231be0c3d5ac.png) 
+![Nalsar_University_of_Law](https://user-images.githubusercontent.com/47175790/202653522-771f07f1-e059-4b39-aa2b-ec270ab4a4af.png) 
+![ihub](https://user-images.githubusercontent.com/47175790/202653589-133400e6-39a0-4f6e-93a6-79e38d2aa7b6.png) -->
 
    
 
