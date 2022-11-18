@@ -57,9 +57,9 @@ NALSAR University of Law
 Hey, I am a foot note. -->
 
 <picture>
-<!-- <img src="assets/ihub.png"> -->
+<img src="assets/ihub.png",height=20, width=20>
 <img src="assets/IIITH.png">
-<!-- <img src="assets/NALSAR.png"> -->
+<img src="assets/NALSAR.png">
 </picture>
 
 <!-- ![This is an image](assets/ihub.png) -->
