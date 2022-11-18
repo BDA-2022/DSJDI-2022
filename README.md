@@ -56,20 +56,12 @@ NALSAR University of Law
 [^note]:
 Hey, I am a foot note. -->
 
-<!-- <picture>
-<img src="https://github.com/BDA-2022/DSJDI-2022/blob/main/assets/ihub.png" width="48">
-<img src="https://github.com/BDA-2022/DSJDI-2022/blob/main/assets/IIITH.png" width="48">
-<img src="https://github.com/BDA-2022/DSJDI-2022/blob/main/assets/NALSAR.png" width="48">
-</picture> -->
+<picture>
+<img src="assets/ihub.png">
+<img src="assets/IIITH.png">
+<img src="assets/NALSAR.png">
+</picture>
 
-![This is an image](assets/ihub.png)
-
-
-<!-- 
-![IIITH](https://user-images.githubusercontent.com/47175790/202653553-64be9986-63a2-48a4-abb2-231be0c3d5ac.png) 
-![Nalsar_University_of_Law](https://user-images.githubusercontent.com/47175790/202653522-771f07f1-e059-4b39-aa2b-ec270ab4a4af.png) 
-![ihub](https://user-images.githubusercontent.com/47175790/202653589-133400e6-39a0-4f6e-93a6-79e38d2aa7b6.png) -->
-
-   
+<!-- ![This is an image](assets/ihub.png) -->
 
  
