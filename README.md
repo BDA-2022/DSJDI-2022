@@ -9,14 +9,23 @@ There is a scope to exploit the latest data science technologies such as artific
 The workshop is structured around ongoing research efforts in investigating data science approaches to build decision support systems for legal domain.  This workshop is a collection of  keynote talks, invited presentations and a panel.
 
 **09.30-10.00**: Registration
+
 **10.00-10.30**: Inauguration and Introductory remarks  by P.Krishna Reddy IIIT Hyderabad and K.V.K.Santhy, NALSAR University of Law
+
 **10.30-11.00**: Invited Talk 1
+
 **11.00-11.30**: Invited Talk 2
+
 **11.30-12.00**: Invited Talk 3
+
 **12.00-12.30**: Invited Talk 4
+
 **12.30-13.30**: Lunch
+
 **13.30-15.00**: Presentations about tools, and ongoing research  projects 
+
 **15.30-16.00**: Tea
+
 **16.00-17.30**: Way forward
 
 
