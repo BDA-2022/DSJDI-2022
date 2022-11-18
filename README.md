@@ -52,13 +52,15 @@ NALSAR University of Law
     - Girish Agrawal,O.P. Jindal Global University, Sonipat, India
     - V. Balakista Reddy, NALSAR University of Law, Telangana State, India 
     
-    
+<!--     
 [^note]:
-Hey, I am a foot note.
+Hey, I am a foot note. -->
 
+<picture>
 <img src="https://github.com/BDA-2022/DSJDI-2022/blob/main/assets/ihub.png" width="48">
 <img src="https://github.com/BDA-2022/DSJDI-2022/blob/main/assets/IIITH.png" width="48">
 <img src="https://github.com/BDA-2022/DSJDI-2022/blob/main/assets/NALSAR.png" width="48">
+</picture>
 
 <!-- 
 ![IIITH](https://user-images.githubusercontent.com/47175790/202653553-64be9986-63a2-48a4-abb2-231be0c3d5ac.png) 
