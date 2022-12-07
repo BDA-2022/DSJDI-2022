@@ -24,6 +24,7 @@ The workshop is structured around ongoing research efforts in investigating data
 
 **13.30-15.00**: Presentation
 
+|    |    |
 |---------|---------|
 |**Title**| Exploring paragraph-level similarity for legal information search. <br/> Bhoomeendra  (IIIT Hyderabad) , Narendra Babu Unnam (IIIT Hyderabad) ,  C.Saideep (IIIT Hyderabad) , P.Krishna Reddy (IIIT Hyderabad), Apala Das (NALSAR Hyderabad), K. V. K. Santhy (NALSAR hyderabad), Balakista Reddy (NALSAR Hyderabad) | 
 |**Abstract**|To improve the efficiency of Indian legal practitioners,  the legal domain requires  sophisticated  information extraction  methods. In the information retrieval domain,  developing efficient search methods is an active research area. Also, in the web environment, link information is widely exploited to improve search performance. In the literature, research efforts are being made to improve the performance of precedence retrieval by extending text-based  similarity methods.  In this paper, we have made efforts to explore the role of paragraphs in precedence retrieval. By exploiting citation information in the legal documents, we are making efforts to identify potential paragraphs, which could help in improving precedence search. We have developed an initial  framework and conducted experiments with about 10,000 Supreme court judgements pairs.  The results show that the proposed similarity framework based on paragraph similarity could improve precedence search as compared to other methods.|
