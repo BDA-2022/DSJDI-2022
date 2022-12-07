@@ -22,7 +22,9 @@ The workshop is structured around ongoing research efforts in investigating data
 
 **12.30-13.30**: Lunch
 
-**13.30-15.00**: Presentations about tools, and ongoing research  projects 
+**13.30-15.00**: Presentation [Title: Exploring paragraph-level similarity for legal information search]
+                 [Bhoomeendra  (IIIT Hyderabad) , Narendra Babu Unnam (IIIT Hyderabad) ,  C.Saideep (IIIT Hyderabad) , P.Krishna Reddy (IIIT Hyderabad), Apala Das (NALSAR Hyderabad), K. V. K. Santhy (NALSAR hyderabad), Balakista Reddy (NALSAR Hyderabad)]
+                 [Abstract: To improve the efficiency of Indian legal practitioners,  the legal domain requires  sophisticated  information extraction  methods. In the information retrieval domain,  developing efficient search methods is an active research area. Also, in the web environment, link information is widely exploited to improve search performance. In the literature, research efforts are being made to improve the performance of precedence retrieval by extending text-based  similarity methods.  In this paper, we have made efforts to explore the role of paragraphs in precedence retrieval. By exploiting citation information in the legal documents, we are making efforts to identify potential paragraphs, which could help in improving precedence search. We have developed an initial  framework and conducted experiments with about 10,000 Supreme court judgements pairs.  The results show that the proposed similarity framework based on paragraph similarity could improve precedence search as compared to other methods.]
 
 **15.30-16.00**: Tea
 
@@ -51,17 +53,6 @@ NALSAR University of Law
     - Mukesh Mohania, IIIT Delhi, Delhi, India
     - Girish Agrawal,O.P. Jindal Global University, Sonipat, India
     - V. Balakista Reddy, NALSAR University of Law, Telangana State, India 
-    
-<!--     
-[^note]:
-Hey, I am a foot note. -->
-
-<!-- <picture>
-<img src="assets/ihub.png">
-<img src="assets/IIITH.png">
-<img src="assets/NALSAR.png">
-</picture> -->
-
-<!-- ![This is an image](assets/ihub.png) -->
+  
 
  
