@@ -6,8 +6,6 @@ The judicial system in India is under tremendous pressure. As of May 2022, over 
 There is a scope to exploit the latest data science technologies such as artificial intelligence, big data and machine learning,  for better  retrieval of all kinds of legal data to improve the performance of the stakeholders of  justice delivery in India.  The objective of workshop is to bring researchers who are working on the topics of data science  and legal domain together and carry out exchange regarding building systems to improve quality and scalability of  legal information systems. The workshop will also bring together researchers and practitioners in legal studies and data analytics who are interested in legal information retrieval to improve the efficiency of stakeholders in legal domain.
 
 ## Program
-|          :Workshop on Data Science for Justice Delivery in India (DSJDI-2022):           |
-|----------------------------------------------|-------------------------------------------|
 |                09.30-10.00                   |                Registration               |    
 |                10.00-12.30                   | Round table discussion </br></br> K.V.K.Santhy, NALSAR University of Law </br> Apala Das, NALSAR University of Law </br> Radhakrishna Krishna Chahavan, Judge, Sanga Reddy, District </br> K. Yella Reddy, Lawyer, Jangaon district </br> Balaji, Lawyer, Hyderabad </br> P.Krishna Reddy, IIIT Hyderabad </br> Narendra Babu, IIIT Hyderabad        |
 |                12.30-13.30                   |                  Lunch                    |
