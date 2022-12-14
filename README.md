@@ -7,8 +7,8 @@ There is a scope to exploit the latest data science technologies such as artific
 
 ## Program
 
-|Workshop on Data Science for Justice Delivery in India (DSJDI-2022)           
-|----------------------------------------------|-------------------------------------------
+|    >                         |Workshop on Data Science for Justice Delivery in India (DSJDI-2022)       
+|----------------------------  |-------------------------------------------
 |09.30-10.00                   | Registration                   
 |10.00-12.30                   | Round table discussion <br/><br/> K.V.K.Santhy, NALSAR University of Law <br/> Apala Das, NALSAR University of Law <br/> Radhakrishna Krishna Chahavan, Judge, Sanga Reddy district <br/> K. Yella Reddy, Lawyer, Jangaon district <br/> Balaji, Lawyer, Hyderabad <br/> P.Krishna Reddy, IIIT Hyderabad <br/> Narendra Babu, IIIT Hyderabad        
 |12.30-13.30                   | Lunch                    
