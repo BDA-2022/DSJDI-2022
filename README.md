@@ -7,9 +7,9 @@ There is a scope to exploit the latest data science technologies such as artific
 
 ## Program
 |                09.30-10.00                   |                Registration               |    
-|                10.00-12.30                   | Round table discussion </br></br> K.V.K.Santhy, NALSAR University of Law </br> Apala Das, NALSAR University of Law </br> Radhakrishna Krishna Chahavan, Judge, Sanga Reddy, District </br> K. Yella Reddy, Lawyer, Jangaon district </br> Balaji, Lawyer, Hyderabad </br> P.Krishna Reddy, IIIT Hyderabad </br> Narendra Babu, IIIT Hyderabad        |
+<!-- |                10.00-12.30                   | Round table discussion </br></br> K.V.K.Santhy, NALSAR University of Law </br> Apala Das, NALSAR University of Law </br> Radhakrishna Krishna Chahavan, Judge, Sanga Reddy, District </br> K. Yella Reddy, Lawyer, Jangaon district </br> Balaji, Lawyer, Hyderabad </br> P.Krishna Reddy, IIIT Hyderabad </br> Narendra Babu, IIIT Hyderabad        | -->
 |                12.30-13.30                   |                  Lunch                    |
-|                13.30-15.00                   | -Manupatra: An Online Database for Legal Research, by Sandeep Bathuka, Manupatra Information Solutions Pvt. Ltd. -Role of Ontologies in the Legal Domain, by Raghava Mutharaju, IIIT Delhi -Scrutinizing the Role of Artificial Intelligence in the Legal Landscape, Dr. Sarika Jain, National Institute of Technology Kurukshetra -Exploring paragraph-level similarity for legal information search, by Bhoomeendra (IIIT Hyderabad), Narendra Babu (IIIT Hyderabad)                               |
+<!-- |                13.30-15.00                   | -Manupatra: An Online Database for Legal Research, by Sandeep Bathuka, Manupatra Information Solutions Pvt. Ltd. -Role of Ontologies in the Legal Domain, by Raghava Mutharaju, IIIT Delhi -Scrutinizing the Role of Artificial Intelligence in the Legal Landscape, Dr. Sarika Jain, National Institute of Technology Kurukshetra -Exploring paragraph-level similarity for legal information search, by Bhoomeendra (IIIT Hyderabad), Narendra Babu (IIIT Hyderabad)                               | -->
 |                15.30-16.00                   |                   Tea                     |
 |                16.00-17.30                   |                Way Forward                |
 
