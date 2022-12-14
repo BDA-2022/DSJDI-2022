@@ -7,7 +7,7 @@ There is a scope to exploit the latest data science technologies such as artific
 
 ## Program
 
-|                                                      |                                                                                            
+|           Session                                          |                                                                                            
 |------------------------------------------------------|---------------------------------------------------
 |                  **09.30 - 10.00**                   | Registration                   
 |                  **10.00 - 12.30**                   | Round table discussion <br/><br/> K.V.K.Santhy, NALSAR University of Law <br/> Apala Das, NALSAR University of Law <br/> Radhakrishna Krishna Chahavan, Judge, Sanga Reddy district <br/> K. Yella Reddy, Lawyer, Jangaon district <br/> Balaji, Lawyer, Hyderabad <br/> P.Krishna Reddy, IIIT Hyderabad <br/> Narendra Babu, IIIT Hyderabad        
