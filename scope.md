@@ -6,12 +6,15 @@ layout: default
 
 Given recent developments in IT and various stakeholders like police, prosecutors, defence lawyers, judiciary and forensic laboratories,
 
-*   From legal stakeholders (lawyer, prosecutor, judge, forensic expert) point of view, what is the life cycle of the legal task? How IT could help to improve your day-to-day tasks?
-*   From IT point of view, given the nature of legal domain, how IT could help to improve the performance of stakeholders (lawyer, prosecutor, judge, forensic expert) justice delivery?
+*   from legal stakeholders (lawyer, prosecutor, judge, forensic expert) point of view, what is the life cycle of the legal task? How IT could help to improve your day-to-day tasks?
+
+*   from IT point of view, given the nature of legal domain, how IT could help to improve the performance of stakeholders (lawyer, prosecutor, judge, forensic expert) justice delivery?
 
 ***
 
-## Background:  [Reference](https://lawahead.ie.edu/10-trends-in-the-legal-tech-sector-for-2022/)
+## Background:  
+
+[Reference](https://lawahead.ie.edu/10-trends-in-the-legal-tech-sector-for-2022/)
 
 What exactly are we referring to when we talk about legal tech?
 
