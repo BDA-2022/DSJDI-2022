@@ -1,7 +1,8 @@
 ---
 layout: default
+title: Workshop on Data Science for Justice Delivery in India 
 ---
-
+<!-- # Workshop on Data Science for Justice Delivery in India (DSJDI-2022) -->
 ## Topic:
 
 Given recent developments in IT and various stakeholders like police, prosecutors, defence lawyers, judiciary and forensic laboratories,
