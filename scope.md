@@ -14,7 +14,7 @@ Given recent developments in IT and various stakeholders like police, prosecutor
 
 **Background about legal tech**: [Know more](https://lawahead.ie.edu/10-trends-in-the-legal-tech-sector-for-2022/)
 
-***s
+***
 
 What exactly are we referring to when we talk about legal tech?
 
