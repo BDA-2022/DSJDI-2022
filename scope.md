@@ -17,6 +17,8 @@ Given recent developments in IT and various stakeholders like police, prosecutor
 
 [Reference](https://lawahead.ie.edu/10-trends-in-the-legal-tech-sector-for-2022/)
 
+***
+
 What exactly are we referring to when we talk about legal tech?
 
 Stanford Law School has been a pioneer in the classification of the distinct categories of legal tech tools that exist in the market today. The school compiles an annual list of companies dedicated to legal technology and divides them into nine categories according to their functions:
