@@ -3,6 +3,7 @@ layout: default
 title: Workshop on Data Science for Justice Delivery in India 
 ---
 <!-- # Workshop on Data Science for Justice Delivery in India (DSJDI-2022) -->
+
 ## Topic:
 
 Given recent developments in IT and various stakeholders like police, prosecutors, defence lawyers, judiciary and forensic laboratories,
@@ -11,13 +12,9 @@ Given recent developments in IT and various stakeholders like police, prosecutor
 
 *   from IT point of view, given the nature of legal domain, how IT could help to improve the performance of stakeholders (lawyer, prosecutor, judge, forensic expert) justice delivery?
 
-***
+**Background about legal tech**: [Know more](https://lawahead.ie.edu/10-trends-in-the-legal-tech-sector-for-2022/)
 
-## Background:  
-
-[Reference](https://lawahead.ie.edu/10-trends-in-the-legal-tech-sector-for-2022/)
-
-***
+***s
 
 What exactly are we referring to when we talk about legal tech?
 
