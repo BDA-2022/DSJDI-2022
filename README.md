@@ -8,7 +8,6 @@ There is a scope to exploit the latest data science technologies such as artific
 ## Program
 
 | Session       | Event                       
-
 | ------------- | --------------------------- 
 
 | 08.30 - 10.00 | Registration and networking 
