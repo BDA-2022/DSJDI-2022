@@ -12,7 +12,7 @@ Given recent developments in IT and various stakeholders like police, prosecutor
 
 *   from IT point of view, given the nature of legal domain, how IT could help to improve the performance of stakeholders (lawyer, prosecutor, judge, forensic expert) justice delivery?
 
-**Background**: [Know more about legal technology](https://lawahead.ie.edu/10-trends-in-the-legal-tech-sector-for-2022/)
+**Background**: [Click here to know more about legal technology](https://lawahead.ie.edu/10-trends-in-the-legal-tech-sector-for-2022/)
 
 ***
 
@@ -40,4 +40,4 @@ Stanford Law School has been a pioneer in the classification of the distinct cat
 
 ***
 
-[back](./)
+[Back](./)
