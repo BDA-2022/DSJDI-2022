@@ -10,11 +10,11 @@ There is a scope to exploit the latest data science technologies such as artific
 | Session       |    Event                                            
 | -------       |    -----
 | 08.30 - 10.00 | Registration and networking                
-| 10.00 - 12.30 | [*Round table discussion*](./scope.html) <br/><br/>  Radhakrishna Krishna Chahavan, Judge, Sanga Reddy district <br/> G.Vyjayanthi, Director of prosecutions, Telangana <br/> A.P.Suresh, Lawyer at AP Suresh & Associates <br/> K. Yella Reddy, Lawyer, Jangaon district <br/> Balaji, Lawyer, Hyderabad <br/> P.Sujata, Lawyer, Hyderabad <br/> <br/> K.V.K.Santhy, NALSAR University of Law <br/> Apala Das, NALSAR University of Law <br/> <br/> P.Krishna Reddy, IIIT Hyderabad <br/> Narendra Babu, IIIT Hyderabad <br/> C.Saideep, IIIT Hyderabad <br/> Sriharshitha, IIIT Hyderabad. <br/><br/>
+| 10.00 - 12.30 | **Round table discussion**[(Click here to know more)](./scope.html) <br/><br/>  M. Radha Krishna Chahavan, Judge, Sanga Reddy district <br/> G.Vyjayanthi, Director of prosecutions, Telangana <br/> A.P.Suresh, Lawyer at AP Suresh & Associates <br/> K. Yella Reddy, Lawyer, Jangaon district <br/> Balaji, Lawyer, Hyderabad <br/> P.Sujata, Lawyer, Hyderabad <br/> <br/> K.V.K.Santhy, NALSAR University of Law <br/> Apala Das, NALSAR University of Law <br/> <br/> P.Krishna Reddy, IIIT Hyderabad <br/> Narendra Babu, IIIT Hyderabad <br/> C.Saideep, IIIT Hyderabad <br/> Sriharshitha, IIIT Hyderabad. <br/><br/>
 | 12.30 - 13.30 | Lunch                    
-| 13.30 - 15.00 | *Research presentations* <br/><br/> 1. Manupatra: An Online Database for Legal Research, by Sandeep Bathuka, Manupatra Information Solutions Pvt. Ltd. <br/><br/> 2. Role of Ontologies in the Legal Domain, by Raghava Mutharaju, IIIT Delhi. <br/><br/> 3. Scrutinizing the Role of Artificial Intelligence in the Legal Landscape, by Dr. Sarika Jain, National Institute of Technology Kurukshetra. <br/><br/> 4. Exploring paragraph-level similarity for legal information search, by Bhoomeendra (IIIT Hyderabad), Narendra Babu (IIIT Hyderabad).                          
+| 13.30 - 15.00 | **Research presentations** <br/><br/> 1. Manupatra: An Online Database for Legal Research, by Sandeep Bathuka, Manupatra Information Solutions Pvt. Ltd. <br/><br/> 2. Role of Ontologies in the Legal Domain, by Raghava Mutharaju, IIIT Delhi. <br/><br/> 3. Scrutinizing the Role of Artificial Intelligence in the Legal Landscape, by Dr. Sarika Jain, National Institute of Technology Kurukshetra. <br/><br/> 4. Exploring paragraph-level similarity for legal information search, by Bhoomeendra (IIIT Hyderabad), Narendra Babu (IIIT Hyderabad).                          
 | 15.30 - 16.00 | Tea                     
-| 16.00 - 17.30 | Way Forward                
+| 16.00 - 17.30 | **Way Forward**[(Click here to know more)](./wayforward.html)                
 
 
 ## Organisation
